@@ -1,0 +1,47 @@
+# Dependency directories
+node_modules/
+yarn-debug.log*
+yarn-error.log*
+
+# Hardhat files
+cache/
+artifacts/
+typechain/
+typechain-types/
+
+# Testing
+coverage/
+coverage.json
+
+# Environment variables
+.env
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Hardhat deployment files
+deployments/
+
+# Local Hardhat network
+/hardhat/
+
+# Build files
+dist/
+build/
+
+# Debug logs
+debug/
+logs/
+*.log
